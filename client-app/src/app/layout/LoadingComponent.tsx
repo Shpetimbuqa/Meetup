@@ -12,4 +12,5 @@ export default function LoadingComponent({inverted = true, content = 'Loading...
             <Loader content={content} />
         </Dimmer>
     )
+    
 }

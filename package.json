@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "is-date-object": "^1.0.4"
+    "is-date-object": "^1.0.4",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.7"
   }
 }
